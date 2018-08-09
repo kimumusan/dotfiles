@@ -20,9 +20,6 @@ Plug 'scrooloose/nerdtree'
 " Gitを便利に使う
 Plug 'tpope/vim-fugitive'
 
-" オートコンプリートしてくれる
-Plug 'Shugo/neocomplete.vim'
-
 " Rails向けのコマンドを提供する
 " Plug 'tpope/vim-rails'
 " Ruby向けにendを自動挿入してくれる
